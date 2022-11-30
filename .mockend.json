@@ -1,5 +1,7 @@
 {
-  "title": {
-    "loremWords": { "minLength": 5, "maxLength": 20 }
-  }
+    "User": {
+        "id": "id",
+        "first_name": "firstName",
+        "last_name": "lastName"
+    }
 }
