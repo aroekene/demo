@@ -1,9 +1,1 @@
-{
-  "ModelName": {
-    "fieldName": {
-      "<type>": {} | [],
-      "hasMany": "Model",
-      "belongsTo": "Model"
-    }
-  }
-}
+{ "likes": { "int": { "min": 0, "max": 1000000 } } }
