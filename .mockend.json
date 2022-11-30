@@ -17,8 +17,8 @@
         }
     },
       
-    "Result": {
-        "message_type": {
+"Result": {
+        "title": {
             "string": {}
         }
     }
