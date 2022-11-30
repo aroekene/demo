@@ -5,6 +5,13 @@
       "hasMany": "Comment"
     }
   },
+{
+  "Result": {
+    "title": { "string": {} },
+    "comments": {
+      "hasMany": "Comment"
+    }
+  },  
   "Comment": {
     "body": { "string": {} },
     "post": {
