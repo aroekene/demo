@@ -1,6 +1,7 @@
 {
   "Post": {
     "title": { "string": {} },
+    "message_type": "Success",
     "comments": {
       "hasMany": "Comment"
     }
