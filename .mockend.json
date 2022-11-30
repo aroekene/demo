@@ -18,8 +18,8 @@
     },
       
     "Result": {
-        "title": {
-            "string": {}
+        "message_type": {
+            "string": ['Success']
         }
     }
 
