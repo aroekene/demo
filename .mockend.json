@@ -3,8 +3,17 @@
         "title": {
             "string": {}
         },
-        "name": {
-            "string": ["Thor"]
+        "message_type": {
+            "string": ["Success"]
+        },
+        "status": {
+            "string": ["Created"]
+        },
+        "correlation_id": {
+            "string": ["1-912345678"]
+        },
+        "ticket_number": {
+            "string": ["INC0000000"]
         },
         "comments": {
             "hasMany": "Comment"
