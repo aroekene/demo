@@ -15,12 +15,5 @@
         "post": {
             "belongsTo": "Post"
         }
-    },
-      
-"Result": {
-        "title": {
-            "string": {}
-        }
     }
-
 }
